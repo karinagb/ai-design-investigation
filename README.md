@@ -7,9 +7,7 @@
 -	You draw something fast and it shows you similar draws that you can choose
 -	It is like an autocorrect for draws
 -	Does not show half lines, for example, where is the center of each side of the page.
--	Has 15 types
--	Does not autoalign 
--	Does not add images
+-	Does not autoalign or add images
 
 <br> 
 
