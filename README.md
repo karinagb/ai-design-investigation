@@ -47,9 +47,9 @@
 -	you could be as specific as you want and it will show something that matches that. Also if you are not really sure about the idea that you have, you could say something more abstract and it will be as accurate as possible
 -	it will generate 4 images and for each 2 buttons. For example, for the 1st image, the  u1 button will upscale the 1st image with higher resolution, and the v1 will generate more versions of the 1st image 
 -	you have to write a specific prompt to mid journey to understand you, for example if I want a website for elegant cloth products with 500 stylize (stylize means the esthetic of the images)
-/imagine fancy website for cloth products --v 4 stylize 500
+<sub> /imagine fancy website for cloth products --v 4 stylize 500 </sub>
 -	also you could ask for more characteristics for the page, for example, ui/ux, colors, type of image, etc.
-/imagine fancy website for cloth products, ui, ux, ui/ux, green, white, beige --v 4 stylize 500
+<sub>/imagine fancy website for cloth products, ui, ux, ui/ux, green, white, beige --v 4 stylize 500</sub>
 -	here it will generate the entire web design for the product, with the menu, titles, p, buttons, also other similar products, etc. 
 
 <br> 
