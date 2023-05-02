@@ -61,5 +61,6 @@
 -	It is an autodesigner where you could select the device for the page, the main description if the entire project (you could be really specific about it) and describe the style that you are looking for
 -	It results in a website design for your page. It has different designs for each section of the page with headers, paragraphs, buttons and images
 -	You can edit all of it, colors, images, sections, etc.
+-	The interface for editing the framework of the web design is similar to figma
 -	It is really cool and works perfectly for simple website designs. It generates a page designed with little decoration and detail, not as “artistic” and colorful as midjourney.
 -	 It’s serious and formal design could be a better fit for a clinic, law firm or something more reserved business.
