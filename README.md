@@ -11,7 +11,7 @@
 -	Does not autoalign 
 -	Does not add images
 
-
+<br> 
 
 # Draw3D
 -	https://draw3d.online/
@@ -20,18 +20,26 @@
 -	It is not accurate, for example from a draw of a girl, that has asymmetric eyes and eyebrow, it made them symmetric and add earings
 -	It could have super high quality  
 
+<br> 
+
 # Genie for Figma
 -	You can type a general description of the content or image that you want and it generates it
 -	You have to create the environment for that content or image to be 
+
+<br> 
 
 # AI Color palette generator
 -	You could write a description and it generates a color palettes that matches that description.
 -	For example, if you write “rain forest” it will show different green and brown tones.
 
+<br> 
+
 # Prompt2Figma
 -	It generates cards with header, p and buttons
 -	You can edit the colors, borders and size of everthing
 -	The cards are too simple, you have to be extremely specific with the font, type, size and color, with the background color, etc. That means that it helps the designer to develop the ideas that he/she already has, not to generate all the design with templates and decoration
+
+<br> 
 
 # Mid Journey
 -	is the best for generated designs
@@ -43,3 +51,5 @@
 -	also you could ask for more characteristics for the page, for example, ui/ux, colors, type of image, etc.
 /imagine fancy website for cloth products, ui, ux, ui/ux, green, white, beige --v 4 stylize 500
 -	here it will generate the entire web design for the product, with the menu, titles, p, buttons, also other similar products, etc. 
+
+<br> 
